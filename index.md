@@ -909,6 +909,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Isaque Galdino de Araujo (GNOME Foundation member)
+1. isi_nx
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
 1. Ivana Kellyérová
